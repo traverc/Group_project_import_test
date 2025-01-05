@@ -18,6 +18,8 @@
 // Hello, Dr. Traver.
 // Hello, again, for a second comment.
 // Third comment
+//Fourth commant
+// Fifth comment
 
 DigitalIn enterButton(BUTTON1);
 DigitalIn alarmTestButton(D2);
