@@ -16,6 +16,12 @@
 //=====[Declaration and initialization of public global objects]===============
 
 // Hello, Dr. Traver.
+// Hello, again, for a second comment.
+// Third comment
+//Fourth commant
+// Fifth comment
+
+// GG_branch 01
 
 DigitalIn enterButton(BUTTON1);
 DigitalIn alarmTestButton(D2);
