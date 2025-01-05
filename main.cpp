@@ -4,7 +4,7 @@
 #include "arm_book_lib.h"
 
 //=====[Defines]===============================================================
-
+//Another comment
 #define NUMBER_OF_KEYS                           4
 #define BLINKING_TIME_GAS_ALARM               1000
 #define BLINKING_TIME_OVER_TEMP_ALARM          500
