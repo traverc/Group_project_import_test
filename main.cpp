@@ -15,6 +15,8 @@
 
 //=====[Declaration and initialization of public global objects]===============
 
+// Hello, Dr. Traver.
+
 DigitalIn enterButton(BUTTON1);
 DigitalIn alarmTestButton(D2);
 DigitalIn aButton(D4);
