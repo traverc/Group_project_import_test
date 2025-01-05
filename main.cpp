@@ -4,7 +4,7 @@
 #include "arm_book_lib.h"
 
 //=====[Defines]===============================================================
-
+// CT_branch edit 1
 #define NUMBER_OF_KEYS                           4
 #define BLINKING_TIME_GAS_ALARM               1000
 #define BLINKING_TIME_OVER_TEMP_ALARM          500
@@ -43,7 +43,7 @@ AnalogIn potentiometer(A0);
 AnalogIn lm35(A1);
 
 //=====[Declaration and initialization of public global variables]=============
-
+//Adding a comment - CT
 bool alarmState    = OFF;
 bool incorrectCode = false;
 bool overTempDetector = OFF;
