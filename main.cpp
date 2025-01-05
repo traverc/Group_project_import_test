@@ -35,7 +35,7 @@ AnalogIn potentiometer(A0);
 AnalogIn lm35(A1);
 
 //=====[Declaration and initialization of public global variables]=============
-
+//Adding a comment - CT
 bool alarmState    = OFF;
 bool incorrectCode = false;
 bool overTempDetector = OFF;
